@@ -1,4 +1,4 @@
-# daletou
+# Big Lottery
 
 > A Vue.js project
 
